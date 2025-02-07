@@ -35,9 +35,9 @@ class ShopAutoTest:
 
         # 버튼 좌표
         self.buttons = {
-            "purchase": {"x": 1800, "y": 925},  # 구매버튼
-            "cancel": {"x": 500, "y": 400},  # 취소버튼
-            "confirm": {"x": 1220, "y": 864},  # 확인버튼
+            "purchase": {"x": 1800, "y": 925},  # 구매 버튼
+            "cancel": {"x": 500, "y": 400},  # 취소 버튼
+            "confirm": {"x": 1220, "y": 864},  # 확인 버튼
             "back": {"x": 2207, "y": 55}  # 뒤로가기
         }
 
