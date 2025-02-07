@@ -83,7 +83,7 @@ class TouchTest:
                     logging.info(f"다음 테스트 준비 중...")
 
                 except KeyboardInterrupt:
-                    logging.info("사용자가 테스트를 중단했습니다.")
+                    logging.info("이용자가 테스트를 중단했습니다.")
                     break
                 except Exception as e:
                     logging.error(f"반복 중 오류 발생: {str(e)}")
