@@ -80,7 +80,7 @@ class TouchTest:
                     # 1초 대기
                     time.sleep(1)
 
-                    logging.info(f"다음 테스트 준비 중...")
+                    logging.info(f"다음 테스트 준비...")
 
                 except KeyboardInterrupt:
                     logging.info("이용자가 테스트를 중단했습니다.")
