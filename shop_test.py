@@ -16,7 +16,7 @@ class ShopAutoTest:
         options = UiAutomator2Options()
         options.platform_name = 'Android'
         options.automation_name = 'UiAutomator2'
-        options.device_name = '디바이스 이름'
+        options.device_name = '디바이스이름'
         options.app_package = 'com.kakaogames.gdtskr'
         options.app_activity = 'com.kakaogame.KGUnityPlayerActivity'
         options.no_reset = True
